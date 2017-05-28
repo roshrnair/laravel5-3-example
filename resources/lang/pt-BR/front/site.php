@@ -10,6 +10,7 @@ return [
     'forget-password' => 'Esqueci minha senha',
     'connection' => 'Login',
     'administration' => 'Administração',
+		'invoice' => 'Facturação',
     'redaction' => 'Redação',
     'logout' => 'Sair',
     'notification-endtext' => 'Se você está tendo problemas de clicar no botão, copie e cole o URL abaixo no seu navegador web:',

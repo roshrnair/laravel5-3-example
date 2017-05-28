@@ -72,6 +72,10 @@
                                         {!! link_to('blog', trans('front/site.redaction')) !!}
                                     </li>
                                 @endif
+                                    <li>
+                                        {!! link_to_route('invoice', trans('front/site.invoice')) !!}
+                                    </li>
+                                
                                 <li>
                                     {!! link_to('/logout', trans('front/site.logout'), ['id' => "logout"]) !!}
                                     {!! Form::open(['url' => '/logout', 'id' => 'logout-form']) !!}{!! Form::close() !!}

@@ -44,7 +44,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-/vendor
+#/vendor
 /node_modules
 
 database/database.sqlite

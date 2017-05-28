@@ -1,12 +1,12 @@
 <?php
 
 return [
-    'connection' => 'Connection',
-    'text' => 'To log on this site you must fill this form :',
+    'connection' => 'Simple Application Login',
+    'text' => 'Please fill in your credentials :',
     'email' => 'Your email',
     'password' => 'Your password',
     'remind' => 'Remember me',
-    'forget' => 'I have forgotten my password !',
+    'forget' => 'Forgot Password !',
     'register' => 'Not registered ?',
     'register-info' => 'To register quickly just click on the button !',
     'registering' => 'I subscribe',

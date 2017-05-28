@@ -10,6 +10,7 @@ return [
     'forget-password' => 'Oubli mot de passe',
     'connection' => 'Connexion',
     'administration' => 'Administration',
+		'invoice' => 'Invoicing',
     'redaction' => 'Rédaction',
     'logout' => 'Déconnexion',
     'notification-endtext' => 'Si vous avez des soucis avec le button, copiez le lien ci-après dans votre navigateur :',

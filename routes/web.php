@@ -10,6 +10,10 @@ Route::get('language/{lang}', 'LanguageController')
 // Admin
 Route::get('admin', 'AdminController')->name('admin');
 
+// Invoice
+Route::get('invoice', 'InvoiceController')->name('invoice');
+Route::get('invoices', 'InvoiceController@index');
+
 // Medias
 Route::get('medias', 'FilemanagerController')->name('medias');
 

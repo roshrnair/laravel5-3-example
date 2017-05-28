@@ -7,7 +7,7 @@ return [
     'logout' => 'Logout',
     'dashboard' => 'Dashboard',
     'users' => 'users',
-    'see-all' => 'See all',
+    'see-all' => 'List Users',
     'add' => 'Add',
     'messages' => 'Messages',
     'comments' => 'Comments',
